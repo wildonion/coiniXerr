@@ -3,8 +3,11 @@
 
 # Development Setup
 
-* **Watch _coiniXerr_ service:** ```cargo watch -x 'run --bin coiniXerr'```
+* **Install `cargo-watch`:** ```cargo install cargo-watch```
+
+* **Watch _psychoder_ service:** ```cargo watch -x 'run --bin psychoder'```
 
 # Production Setup
 
-* **Build _coiniXerr_ service:** ```cargo build --bin coiniXerr --release```
+* **Build _psychoder_ service:** ```cargo build --bin psychoder --release```
+
