@@ -5,9 +5,9 @@
 
 * **Install `cargo-watch`:** ```cargo install cargo-watch```
 
-* **Watch _psychoder_ service:** ```cargo watch -x 'run --bin psychoder'```
+* **Watch _psychoder_ service:** ```cargo watch -x run```
 
 # Production Setup
 
-* **Build _psychoder_ service:** ```cargo build --bin psychoder --release```
+* **Build _psychoder_ service:** ```cargo build --bin coiniXerr --release```
 
